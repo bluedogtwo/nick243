@@ -1,7 +1,7 @@
 <div class="header" id="header">
-	<img class="logo" src="@pathtofile(site/img/nifty-site-manager.png)" width="300px" style="max-width: 90%; margin-top:15px"><br>
+	<img class="logo" src="@pathtofile(site/img/collage33.jpg)" width="300px" style="max-width: 90%; margin-top:15px"><br>
 
 	<a href="@pathto(index)" class="header_item">Home</a>
 	<a href="@pathto(about)" class="header_item">About</a>
-	<a href="@pathto(faq)" class="header_item">FAQ</a>
+	<a href="@pathto(faq)" class="header_item">FAQ2</a>
 </div>
